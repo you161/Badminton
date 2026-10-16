@@ -107,3 +107,22 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+Badminton/.vsconfig
+Badminton/Assembly-CSharp.csproj
+Badminton/Badminton.sln
+Badminton/.vs/Badminton/project-colors.json
+Badminton/.vs/Badminton/FileContentIndex/21a49f47-2ded-48a7-a9e2-4ac272791f4b.vsidx
+Badminton/.vs/Badminton/FileContentIndex/3cc17768-ab6e-4024-ab1f-c82331dacd29.vsidx
+Badminton/.vs/Badminton/FileContentIndex/8b6e8ab7-f393-4218-aab4-5c131ac8137e.vsidx
+Badminton/.vs/Badminton/FileContentIndex/a0396cc7-b37b-474e-a7eb-920b88d6ca16.vsidx
+Badminton/.vs/Badminton/FileContentIndex/read.lock
+Badminton/.vs/Badminton/v17/.suo
+Badminton/Library/
+Badminton/Logs/
+Badminton/obj/
+Badminton/UserSettings/
+*.sln
+*.suo
+Badminton/Temp/
+Badminton/.vs/
